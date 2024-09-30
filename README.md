@@ -1,5 +1,5 @@
 # Oladoc-Hospital-Management-System
-Programmed a back-end system that represented a hospital management system. It included multiple user portals, appointment scheduling, payment methods, and the ability to handle doctors' and patients' entries using the concepts of inheritance and polymorphism.
+Programmed a back-end system in C++ that represented a hospital management system. It included multiple user portals, appointment scheduling, payment methods, and the ability to handle doctors' and patients' entries using the concepts of inheritance and polymorphism.
 ## Hierarchy in classes
 * Doctor admin and patient class are inherited by the user class, constituting a composition with the menu class.
 * Gateways classes make inheritance to payment.
